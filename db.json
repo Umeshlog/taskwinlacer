@@ -1,0 +1,28 @@
+{
+  "student": [
+    {
+      "stufname": "ritu sighn",
+      "stulname": "patel",
+      "email": "umeshpatel1.patel@gmail.com",
+      "id": 1
+    },
+    {
+      "stufname": "piyush",
+      "stulname": "Yadav",
+      "email": "yadav@gmail.com",
+      "id": 2
+    },
+    {
+      "stufname": "umesh",
+      "stulname": "sgh",
+      "email": "umehsdhkj@gmail.com",
+      "id": 4
+    },
+    {
+      "stufname": "rahul",
+      "stulname": "choudhary",
+      "email": "umeshpatel1.patel@gmail.com",
+      "id": 5
+    }
+  ]
+}
